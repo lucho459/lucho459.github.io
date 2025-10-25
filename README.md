@@ -28,7 +28,7 @@ If you wish to run it locally for testing:
 * **Responsiveness:** The layout is designed to work well on *mobile devices*.
 
 ### Live Preview
-![Website Project Screenshot](images/my_project_screenshot.png)
+![Website Project Screenshot](https://raw.githubusercontent.com/lucho459/lucho459.github.io/main/images/image1B.jpg)
 
 
 ### File Structure Example
