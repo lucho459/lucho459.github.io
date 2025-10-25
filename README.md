@@ -28,7 +28,7 @@ If you wish to run it locally for testing:
 * **Responsiveness:** The layout is designed to work well on *mobile devices*.
 
 ### Live Preview
-
+![Website Project Screenshot](project-screenshot.png)
 
 
 ### File Structure Example
